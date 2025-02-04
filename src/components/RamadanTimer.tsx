@@ -10,8 +10,8 @@ const RamadanTimer = () => {
   });
 
   useEffect(() => {
-    // Example Ramadan 2024 end date
-    const ramadanEnd = new Date('2024-04-09T00:00:00').getTime();
+    // Example Ramadan 2025 end date
+    const ramadanEnd = new Date('2025-04-09T00:00:00').getTime();
 
     const timer = setInterval(() => {
       const now = new Date().getTime();
