@@ -73,7 +73,7 @@ function App() {
           </div>
           <div className="mt-8 pt-8 border-t border-gray-200 text-center">
   <p>
-    &copy; {new Date().getFullYear()} Chorrullapalli . Developed with ☕ by {" "}
+    &copy; {new Date().getFullYear()} Chorrullapalli . Sarcasm with ☕  {" "}
     <a href="https://linktr.ee/emeenx" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
       emeenx
     </a>
