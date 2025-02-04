@@ -16,7 +16,7 @@ function App() {
       {/* Navigation */}
       <nav className="bg-emerald-600 text-white p-4">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-arabic">Chorrullapalli</h1>
+          <h1 className="text-2xl font-arabic">Chorrulla Palli 🕌</h1>
           <button
             onClick={toggleDarkMode}
             className="p-2 rounded-full hover:bg-emerald-700 transition-colors"
@@ -39,7 +39,7 @@ function App() {
             Find nearest നോമ്പ് തുറ പള്ളി
           </h1>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Connecting you with local masjids offering food services during the blessed month of Ramadan
+            Connecting you with local masjids offering food during the blessed month of Ramadan
           </p>
           <RamadanOne />
         </div>
@@ -73,7 +73,7 @@ function App() {
           </div>
           <div className="mt-8 pt-8 border-t border-gray-200 text-center">
   <p>
-    &copy; {new Date().getFullYear()} Chorrullapalli . Sarcasm with ☕  {" "}
+    &copy; {new Date().getFullYear()} Chorrullapalli 🕌. Sarcasm with ☕  {" "}
     <a href="https://linktr.ee/emeenx" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
       emeenx
     </a>
